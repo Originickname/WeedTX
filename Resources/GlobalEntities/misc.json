@@ -1,0 +1,114 @@
+﻿[
+  {
+    "name": "Preset",
+    "id": -571744569,
+    "template": [
+      "PresetMarketItemTemplate",
+      "garage/preset"
+    ],
+    "components": {
+      "MarketItemGroupComponent": {
+        "key": -571744569
+      }
+    }
+  },
+  {
+    "name": "Premiumboost",
+    "id": -1816745725,
+    "template": [
+      "PremiumBoostMarketItemTemplate",
+      "garage/premium/boost"
+    ],
+    "components": {
+      "MarketItemGroupComponent": {
+        "key": -1816745725
+      }
+    }
+  },
+  {
+    "name": "Premiumquest",
+    "id": -180272377,
+    "template": [
+      "PremiumQuestMarketItemTemplate",
+      "garage/premium/quest"
+    ],
+    "components": {
+      "MarketItemGroupComponent": {
+        "key": -180272377
+      }
+    }
+  },
+  {
+    "name": "Goldbonus",
+    "id": 636909271,
+    "template": [
+      "GoldBonusMarketItemTemplate",
+      "garage/goldbonus"
+    ],
+    "components": {
+      "MarketItemGroupComponent": {
+        "key": 636909271
+      }
+    }
+  },
+  {
+    "name": "ModuleSlot",
+    "id": 1335431730,
+    "template": [
+      "SlotMarketItemTemplate",
+      "garage/module/slot/market"
+    ],
+    "components": {
+      "MarketItemGroupComponent": {
+        "key": 1335431730
+      }
+    }
+  },
+  {
+    "name": "Crystal",
+    "id": 1317350822,
+    "template": [
+      "CrystalMarketItemTemplate",
+      "garage/crystal"
+    ],
+    "components": {
+      "MarketItemGroupComponent": {
+        "key": 1317350822
+      }
+    }
+  },
+  {
+    "name": "XCrystal",
+    "id": 947348559,
+    "template": [
+      "XCrystalMarketItemTemplate",
+      "garage/xcrystal"
+    ],
+    "components": {
+      "MarketItemGroupComponent": {
+        "key": 947348559
+      }
+    }
+  },
+  {
+    "name": "Matchmaking",
+    "id": 1016044373,
+    "template": [
+      "MatchMakingTemplate",
+      "battleselect/matchmaking"
+    ],
+    "components": {}
+  },
+  {
+    "name": "Leaguesconfig",
+    "id": 1775386509,
+    "template": [
+      "LeaguesConfigTemplate",
+      "leagues/config"
+    ],
+    "components": {
+      "SeasonEndDateComponent": {},
+      "CurrentSeasonNumberComponent": {}
+    }
+  }
+]

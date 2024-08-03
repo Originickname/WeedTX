@@ -1,0 +1,32 @@
+changeUserEmailScreen:
+  header: EMAIL
+  sendButton: CONTINUE
+  rightPanelHint: Enter your email address and confirm it to protect your account, and receive a gift!
+confirmUserEmailScreen:
+  header: EMAIL
+  confirmationHint: 'The mail was sent to the address %EMAIL%. Follow the link in the message to confirm the new address.'
+  sendAgainText: Send again
+  rightPanelHint: Confirm you email address to protect your account, and receive a gift!
+viewUserEmailScreen:
+  header: EMAIL
+  yourEmail: 'Your e-mail address: %EMAIL%'
+enterUserEmailScreen:
+  header: RESTORE ACCESS
+  continueButton: CONTINUE
+  rightPanelHint: "If you have any problems, contact the project administrators on the Discord server Vint: https://discord.gg/6WzrtVSs6G."
+enterConfirmationCodeScreen:
+  header: RESTORE ACCESS
+  continueButton: CONFIRM
+  sendAgainText: SEND CODE
+  confirmationCodeText: Enter the received code
+  confirmationHint: "We've created a confirmation code for account %DISCORD%. Get it from Discord using the command '/player restore_password_code'"
+  invalidCodeMessage: Code is incorrect
+enterNewPasswordScreen:
+  header: RESTORE ACCESS
+  newPassword: Enter a new password
+  repeatNewPassword: Repeat the new password
+  continueButton: APPLY
+changeUIDScreen:
+  header: CHANGE NICKNAME
+  inputHint: Enter new nickname
+  existUIDHint: This nickname has already been registered by another player

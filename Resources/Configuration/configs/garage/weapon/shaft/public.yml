@@ -1,0 +1,107 @@
+priceItem:
+  price: 1600
+xPriceItem:
+  price: 320
+userItemTemplate:
+  userItemTemplate: 1435138415322
+itemIcon:
+  spriteUid: 032a47c1-d656-40b3-98e4-0e744d0aa52d
+order:
+  index: 7
+crystalsPurchaseUserRankRestriction:
+  restrictionValue: 9
+aimingMinDamageProperty:
+  initialValue: 450.000
+  finalValue: 450.000
+aimingMaxDamageProperty:
+  initialValue: 1050.000
+  finalValue: 1050.000
+energyChargePerShotProperty: # UnloadEnergyPerQuickShot (value)
+  initialValue: 0.429
+  finalValue: 0.429
+energyChargeSpeedProperty: # UnloadAimingEnergyPerSec (value), UnloadEnergyPerSec (value)
+  initialValue: 0.134
+  finalValue: 0.134
+energyRechargeSpeedProperty: # ReloadEnergyPerSec (value)
+  initialValue: 0.120
+  finalValue: 0.120
+reloadTimeProperty: # ReloadEnergyPerSec (1/value), CooldownIntervalSec (value)
+  initialValue: 3.500
+  finalValue: 3.500
+temperatureHittingTimeProperty:
+  initialValue: 10.000
+  finalValue: 10.000
+aimingVerticalAccelerationProperty:
+  initialValue: 20.000
+  finalValue: 20.000
+aimingHorizontalAccelerationProperty:
+  initialValue: 40.000
+  finalValue: 40.000
+aimingVerticalSpeedProperty:
+  initialValue: 20.000
+  finalValue: 20.000
+aimingHorizontalSpeedProperty:
+  initialValue: 40.000
+  finalValue: 40.000
+impactProperty:
+  initialValue: 1.000
+  finalValue: 1.000
+aimingImpactProperty:
+  initialValue: 6.000
+  finalValue: 6.000
+kickbackProperty:
+  initialValue: 4.000
+  finalValue: 4.000
+deltaTemperaturePerSecondProperty:
+  initialValue: 0.100
+  finalValue: 0.100
+temperatureLimitProperty:
+  initialValue: 0.500
+  finalValue: 0.500
+heatDamageProperty:
+  initialValue: 150
+  finalValue: 150
+visualProperties:
+  mainProperties:
+    - name: Damage
+      normalizedValue: 0.98
+    - name: Range
+      normalizedValue: 1.00
+    - name: FireRate
+      normalizedValue: 0.10
+  properties:
+    - name: DPM
+      initialValue: 10800
+      finalValue: 10800
+    - name: Damage
+      initialValue: 450
+      finalValue: 450
+      format: 0
+    - name: Aiming Damage
+      initialValue: 1050
+      finalValue: 1050
+      format: 0
+    - name: Loading Time
+      initialValue: 7.5
+      finalValue: 7.5
+      format: 0.0
+      unit: sec
+    - name: Reload Time
+      initialValue: 2.5
+      finalValue: 2.5
+      format: 0.0
+      unit: sec
+    - name: Aiming Speed
+      initialValue: 20
+      finalValue: 20
+      format: 0
+      unit: degrees_per_sec
+    - name: Impact
+      initialValue: 1
+      finalValue: 1
+      format: 0
+    - name: Aiming Impact
+      initialValue: 6
+      finalValue: 6
+      format: 0
+...

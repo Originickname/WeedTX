@@ -1,0 +1,82 @@
+moduleCooldownProperty:
+  linearInterpolation: true
+  upgradeLevel2Values:
+    - 81000
+    - 54000
+moduleAmmunitionProperty:
+  linearInterpolation: true
+  upgradeLevel2Values:
+    - 1
+    - 1
+moduleEffectDurationProperty:
+  linearInterpolation: true
+  upgradeLevel2Values:
+    - 4000
+    - 6000
+moduleHealingEffectInstantHPProperty:
+  linearInterpolation: true
+  upgradeLevel2Values:
+    - 500
+    - 750
+moduleHealingEffectHPPerMSProperty:
+  linearInterpolation: true
+  upgradeLevel2Values:
+    - 0.08
+    - 0.12
+moduleHealingEffectPercentProperty:
+  linearInterpolation: true
+  upgradeLevel2Values:
+    - 0.15
+    - 0.3
+moduleHealingEffectFirstTickMsProperty:
+  linearInterpolation: true
+  upgradeLevel2Values:
+    - 1
+    - 1
+moduleHealingEffectPeriodicTickProperty:
+  linearInterpolation: true
+  upgradeLevel2Values:
+    - 1
+    - 1
+moduleVisualProperties:
+  properties:
+    - name: Cooldown
+      linearInterpolation: true
+      upgradeLevel2Values:
+        - 81
+        - 54
+      unit: sec
+      format: 0.0
+      spriteUID: 75703cb6-f734-4a53-9b7b-fcb5df984159
+    - name: InstantHealing
+      linearInterpolation: true
+      upgradeLevel2Values:
+        - 500
+        - 750
+      unit: hp
+      format: 0
+      spriteUID: cfd2830e-ab56-4774-bba3-9465a37a1478
+    - name: AddHealingDuration
+      linearInterpolation: true
+      upgradeLevel2Values:
+        - 4
+        - 6
+      unit: sec
+      format: 0
+      spriteUID: b96547e2-3a61-4cc9-b494-29dc48eea542
+    - name: HealingAmountPercent
+      linearInterpolation: true
+      upgradeLevel2Values:
+        - 15
+        - 30
+      unit: percent
+      format: 0
+      spriteUID: cfd2830e-ab56-4774-bba3-9465a37a1478
+    - name: Reserve
+      linearInterpolation: true
+      upgradeLevel2Values:
+        - 1
+        - 1
+      format: 0
+      spriteUID: 85ecaf68-fb3d-4cec-b8a9-e2b5b6cf8602
+...

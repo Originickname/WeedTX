@@ -1,0 +1,8 @@
+﻿host: *ip*
+acceptorPort: 5050
+configVersion: Vint-11
+bundleDbVersion: Vint-11
+resourcesUrl: http://*host*/resources
+configsUrl: http://*host*/config
+updateConfigUrl: http://*host*/update/{BuildTarget}.yml
+stateFileUrl: http://*host*/state/_state.yml

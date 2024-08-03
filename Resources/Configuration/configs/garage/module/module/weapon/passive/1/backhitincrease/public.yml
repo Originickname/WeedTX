@@ -1,0 +1,13 @@
+moduleUpgradePropertiesInfo:
+  template: 636354483701179398
+  path: garage/module/upgrade/properties/backhitincrease
+itemIcon:
+  spriteUid: 7aa0a37d-8c20-4121-93de-823b343f7189
+itemBigIcon:
+  spriteUid: 7aa0a37d-8c20-4121-93de-823b343f7189
+order:
+  index: 1
+moduleEffects:
+  effects:
+    - template: 636335614279510240
+      config: battle/effect/backhitincrease  

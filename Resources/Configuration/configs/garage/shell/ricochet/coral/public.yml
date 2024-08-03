@@ -1,0 +1,57 @@
+priceItem:
+  price: 0
+xPriceItem:
+  price: 349
+order:
+  index: 200
+unityAsset:
+  reference:
+    assetGuid: 5965dd45a436e1849b21f9d5911b99d1
+imageItem:
+  spriteUid: 1b4c7ec8-d063-4b3f-a35c-3ea475a8b102
+purchaseUpgradeLevelRestriction:
+  restrictionValue: 0
+purchaseUserRankRestriction:
+  restrictionValue: 0
+mountUpgradeLevelRestriction:
+  restrictionValue: 0
+mountUserRankRestriction:
+  restrictionValue: 0
+minDamageProperty:
+  initialValue: 285.6
+  finalValue: 285.6
+maxDamageProperty:
+  initialValue: 285.6
+  finalValue: 285.6
+energyChargePerShotProperty:
+  initialValue: 0.200
+  finalValue: 0.200
+reloadTimeProperty:
+  initialValue: 0.700
+  finalValue: 0.700
+energyRechargeSpeedProperty:
+  initialValue: 0.143
+  finalValue: 0.143
+bulletSpeedProperty:
+  initialValue: 110.000
+  finalValue: 110.000
+bulletRadiusProperty:
+  initialValue: 0.800
+  finalValue: 0.800
+maxDamageDistanceProperty:
+  initialValue: 61.696
+  finalValue: 61.696
+minDamageDistanceProperty:
+  initialValue: 110.000
+  finalValue: 110.000
+minDamagePercentProperty:
+  initialValue: 59.130
+  finalValue: 59.130
+impactProperty:
+  initialValue: 2.000
+  finalValue: 2.000
+kickbackProperty:
+  initialValue: 1.000
+  finalValue: 1.000
+itemRarity:
+  rarityType: RARE

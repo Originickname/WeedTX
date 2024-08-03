@@ -1,0 +1,63 @@
+purchaseUpgradeLevelRestriction:
+  restrictionValue: 0
+purchaseUserRankRestriction:
+  restrictionValue: 0
+mountUpgradeLevelRestriction:
+  restrictionValue: 0
+mountUserRankRestriction:
+  restrictionValue: 0
+priceItem:
+  price: 0
+xPriceItem:
+  price: 0
+order:
+  index: 300
+damagePerSecondProperty:
+  initialValue: 380.000
+  finalValue: 380.000
+heatDamageProperty:
+  initialValue: 125
+  finalValue: 125
+spinUpTimeProperty:
+  initialValue: 0.700
+  finalValue: 0.700
+temperatureHittingTimeProperty:
+  initialValue: 5.000
+  finalValue: 5.000
+spinDownTimeProperty:
+  initialValue: 1.000
+  finalValue: 1.000
+deltaTemperaturePerSecondProperty:
+  initialValue: 0.150
+  finalValue: 0.150
+temperatureLimitProperty:
+  initialValue: 0.500
+  finalValue: 0.500
+targetHeatMultiplierProperty:
+  initialValue: 0.800
+  finalValue: 0.800
+maxDamageDistanceProperty:
+  initialValue: 68.580
+  finalValue: 68.580
+minDamageDistanceProperty:
+  initialValue: 113.478
+  finalValue: 113.478
+minDamagePercentProperty:
+  initialValue: 55.652
+  finalValue: 55.652
+weaponTurnDecelerationProperty:
+  initialValue: 0.50
+  finalValue: 0.50
+impactProperty:
+  initialValue: 1.600
+  finalValue: 1.600
+kickbackProperty:
+  initialValue: 1.600
+  finalValue: 1.600
+unityAsset:
+  reference:
+    assetGuid: 24f48e375187a3b4f9359b8cefbbb96b
+imageItem:
+  spriteUid: a5b65a20-3bd3-46fa-8390-5819c8178bc3
+itemRarity:
+  rarityType: COMMON

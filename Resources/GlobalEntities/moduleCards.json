@@ -1,0 +1,466 @@
+[
+  {
+    "name": "AbsorbingArmor",
+    "id": 1070497259,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/absorbingarmor"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 492941809
+      },
+      "MarketItemGroupComponent": {
+        "key": 1070497259
+      }
+    }
+  },
+  {
+    "name": "AcceleratedGears",
+    "id": 1379340193,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/acceleratedgears"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 1365914179
+      },
+      "MarketItemGroupComponent": {
+        "key": 1379340193
+      }
+    }
+  },
+  {
+    "name": "Adrenaline",
+    "id": 1384519921,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/adrenaline"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 1367280061
+      },
+      "MarketItemGroupComponent": {
+        "key": 1384519921
+      }
+    }
+  },
+  {
+    "name": "BackhitDefence",
+    "id": -1143816664,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/backhitdefence"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -1962420821
+      },
+      "MarketItemGroupComponent": {
+        "key": -1143816664
+      }
+    }
+  },
+  {
+    "name": "BackhitIncrease",
+    "id": -1143816665,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/backhitincrease"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -2075784110
+      },
+      "MarketItemGroupComponent": {
+        "key": -1143816665
+      }
+    }
+  },
+  {
+    "name": "Drone",
+    "id": 69326151,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/drone"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 1392039140
+      },
+      "MarketItemGroupComponent": {
+        "key": 69326151
+      }
+    }
+  },
+  {
+    "name": "EmergencyProtection",
+    "id": -443509498,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/emergencyprotection"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -357196071
+      },
+      "MarketItemGroupComponent": {
+        "key": -443509498
+      }
+    }
+  },
+  {
+    "name": "Emp",
+    "id": -1756465500,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/emp"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -1493372159
+      },
+      "MarketItemGroupComponent": {
+        "key": -1756465500
+      }
+    }
+  },
+  {
+    "name": "EnergyInjection",
+    "id": -1116052693,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/energyinjection"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 1128679079
+      },
+      "MarketItemGroupComponent": {
+        "key": -1116052693
+      }
+    }
+  },
+  {
+    "name": "Engineer",
+    "id": 1464064213,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/engineer"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -1027949361
+      },
+      "MarketItemGroupComponent": {
+        "key": 1464064213
+      }
+    }
+  },
+  {
+    "name": "ExplosiveMass",
+    "id": -206369995,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/explosivemass"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 393550399
+      },
+      "MarketItemGroupComponent": {
+        "key": -206369995
+      }
+    }
+  },
+  {
+    "name": "ExternalImpact",
+    "id": 1032613237,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/externalimpact"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -1334156852
+      },
+      "MarketItemGroupComponent": {
+        "key": 1032613237
+      }
+    }
+  },
+  {
+    "name": "FireRing",
+    "id": -627265270,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/firering"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 1896579342
+      },
+      "MarketItemGroupComponent": {
+        "key": -627265270
+      }
+    }
+  },
+  {
+    "name": "ForceField",
+    "id": 2100727840,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/forcefield"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -1597839790
+      },
+      "MarketItemGroupComponent": {
+        "key": 2100727840
+      }
+    }
+  },
+  {
+    "name": "IceTrap",
+    "id": 1914815875,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/icetrap"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -1177680131
+      },
+      "MarketItemGroupComponent": {
+        "key": 1914815875
+      }
+    }
+  },
+  {
+    "name": "IncreasedDamage",
+    "id": 465438765,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/increaseddamage"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 676407818
+      },
+      "MarketItemGroupComponent": {
+        "key": 465438765
+      }
+    }
+  },
+  {
+    "name": "Invisibility",
+    "id": 1625485211,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/invisibility"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 137179508
+      },
+      "MarketItemGroupComponent": {
+        "key": 1625485211
+      }
+    }
+  },
+  {
+    "name": "Invulnerability",
+    "id": -1128519711,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/invulnerability"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 1924597477
+      },
+      "MarketItemGroupComponent": {
+        "key": -1128519711
+      }
+    }
+  },
+  {
+    "name": "JumpImpact",
+    "id": -1596570946,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/jumpimpact"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 1327463523
+      },
+      "MarketItemGroupComponent": {
+        "key": -1596570946
+      }
+    }
+  },
+  {
+    "name": "Kamikadze",
+    "id": 489948195,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/kamikadze"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -1603423529
+      },
+      "MarketItemGroupComponent": {
+        "key": 489948195
+      }
+    }
+  },
+  {
+    "name": "LifeSteal",
+    "id": 2010921135,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/lifesteal"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -246333323
+      },
+      "MarketItemGroupComponent": {
+        "key": 2010921135
+      }
+    }
+  },
+  {
+    "name": "Mine",
+    "id": 1384378871,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/mine"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 1133911248
+      },
+      "MarketItemGroupComponent": {
+        "key": 1384378871
+      }
+    }
+  },
+  {
+    "name": "Rage",
+    "id": -786092160,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/rage"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 1215656773
+      },
+      "MarketItemGroupComponent": {
+        "key": -786092160
+      }
+    }
+  },
+  {
+    "name": "RepairKit",
+    "id": -786092161,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/repairkit"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -862259125
+      },
+      "MarketItemGroupComponent": {
+        "key": -786092161
+      }
+    }
+  },
+  {
+    "name": "Sapper",
+    "id": -887306593,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/sapper"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -105040547
+      },
+      "MarketItemGroupComponent": {
+        "key": -887306593
+      }
+    }
+  },
+  {
+    "name": "Sonar",
+    "id": -28208097,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/sonar"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -1318192334
+      },
+      "MarketItemGroupComponent": {
+        "key": -28208097
+      }
+    }
+  },
+  {
+    "name": "SpiderMine",
+    "id": 709690204,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/spidermine"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 1458405023
+      },
+      "MarketItemGroupComponent": {
+        "key": 709690204
+      }
+    }
+  },
+  {
+    "name": "TempBlock",
+    "id": -23536107,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/tempblock"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": 596921121
+      },
+      "MarketItemGroupComponent": {
+        "key": -23536107
+      }
+    }
+  },
+  {
+    "name": "TurboSpeed",
+    "id": 1378523021,
+    "template": [
+      "ModuleCardMarketItemTemplate",
+      "garage/module/card/turbospeed"
+    ],
+    "components": {
+      "ParentGroupComponent": {
+        "key": -365494384
+      },
+      "MarketItemGroupComponent": {
+        "key": 1378523021
+      }
+    }
+  }
+]

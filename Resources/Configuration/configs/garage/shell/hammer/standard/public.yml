@@ -1,0 +1,48 @@
+priceItem:
+  price: 0
+xPriceItem:
+  price: 0
+order:
+  index: 300
+unityAsset:
+  reference:
+    assetGuid: 376e90feecf67f2419c182a472be1f72
+imageItem:
+  spriteUid: c37b1c6a-8f6b-4ee4-8f41-0f7f45e30c77
+purchaseUpgradeLevelRestriction:
+  restrictionValue: 0
+purchaseUserRankRestriction:
+  restrictionValue: 0
+mountUpgradeLevelRestriction:
+  restrictionValue: 0
+mountUserRankRestriction:
+  restrictionValue: 0
+damagePerPelletProperty:
+  initialValue: 54.000
+  finalValue: 54.000
+reloadMagazineTimeProperty:
+  initialValue: 4.000
+  finalValue: 4.000
+reloadTimeProperty:
+  initialValue: 1.900
+  finalValue: 1.900
+magazineSizeProperty:
+  initialValue: 3.000
+  finalValue: 3.000
+maxDamageDistanceProperty:
+  initialValue: 32.762
+  finalValue: 32.762
+minDamageDistanceProperty:
+  initialValue: 69.130
+  finalValue: 69.130
+minDamagePercentProperty:
+  initialValue: 66.087
+  finalValue: 66.087
+impactProperty:
+  initialValue: 0.750
+  finalValue: 0.750
+kickbackProperty:
+  initialValue: 3.000
+  finalValue: 3.000
+itemRarity:
+  rarityType: COMMON

@@ -1,0 +1,48 @@
+purchaseUpgradeLevelRestriction:
+  restrictionValue: 0
+purchaseUserRankRestriction:
+  restrictionValue: 0
+mountUpgradeLevelRestriction:
+  restrictionValue: 0
+mountUserRankRestriction:
+  restrictionValue: 0
+priceItem:
+  price: 0
+xPriceItem:
+  price: 0
+order:
+  index: 300
+minDamageProperty:
+  initialValue: 634
+  finalValue: 634
+maxDamageProperty:
+  initialValue: 634
+  finalValue: 634
+reloadTimeProperty:
+  initialValue: 3.000
+  finalValue: 3.000
+maxDamageDistanceProperty:
+  initialValue: 98.887
+  finalValue: 98.887
+minDamageDistanceProperty:
+  initialValue: 143.043
+  finalValue: 143.043
+minDamagePercentProperty:
+  initialValue: 48.696
+  finalValue: 48.696
+impactProperty:
+  initialValue: 3.500
+  finalValue: 3.500
+splashImpactProperty:
+  initialValue: 4.000
+  finalValue: 4.000
+kickbackProperty:
+  initialValue: 3.500
+  finalValue: 3.500
+unityAsset:
+  reference:
+    assetGuid: 27ce55bc5206c4f4e89cc3945b339cfe
+imageItem:
+  spriteUid: 488fe061-c6f5-43d7-81b6-40e6a2eb9b24
+itemRarity:
+  rarityType: COMMON

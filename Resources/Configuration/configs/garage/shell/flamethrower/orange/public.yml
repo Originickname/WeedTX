@@ -1,0 +1,48 @@
+priceItem:
+  price: 0
+xPriceItem:
+  price: 0
+order:
+  index: 300
+unityAsset:
+  reference:
+    assetGuid: 844389a92dd5a5d4bba1441d38d7c4eb
+imageItem:
+  spriteUid: 4c9d7de7-abfc-4345-a167-a86d56801f8f
+purchaseUpgradeLevelRestriction:
+  restrictionValue: 0
+purchaseUserRankRestriction:
+  restrictionValue: 0
+mountUpgradeLevelRestriction:
+  restrictionValue: 0
+mountUserRankRestriction:
+  restrictionValue: 0
+damagePerSecondProperty:
+  initialValue: 518.000
+  finalValue: 518.000
+heatDamageProperty:
+  initialValue: 250
+  finalValue: 250
+energyChargeSpeedProperty:
+  initialValue: 0.250
+  finalValue: 0.250
+energyRechargeSpeedProperty:
+  initialValue: 0.167
+  finalValue: 0.167
+temperatureLimitProperty:
+  initialValue: 1.000
+  finalValue: 1.000
+deltaTemperaturePerSecondProperty:
+  initialValue: 0.200
+  finalValue: 0.200
+maxDamageDistanceProperty:
+  initialValue: 6.000
+  finalValue: 6.000
+minDamageDistanceProperty:
+  initialValue: 16.000
+  finalValue: 16.000
+minDamagePercentProperty:
+  initialValue: 76.522
+  finalValue: 76.522
+itemRarity:
+  rarityType: COMMON

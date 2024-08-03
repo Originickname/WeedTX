@@ -1,0 +1,6 @@
+headerText: Ошибка
+errorText: При обновлении игры произошёл сбой
+exitButtonLabel: ВЫХОД
+reportButtonLabel: СООБЩИТЬ
+reportUrl: https://vint-official.site/
+reConnectTime: 999999 # hack: hides restart button

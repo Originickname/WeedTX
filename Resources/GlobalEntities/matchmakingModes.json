@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Rating",
+    "id": -2076021809,
+    "template": [
+      "MatchMakingModeTemplate",
+      "battleselect/matchmaking/mode/rating"
+    ],
+    "components": {
+      "MatchMakingRatingModeComponent": {}
+    }
+  },
+  {
+    "name": "WithoutDamage",
+    "id": 305493369,
+    "template": [
+      "MatchMakingModeTemplate",
+      "battleselect/arcade/mode/withoutdamage"
+    ],
+    "components": {
+      "MatchMakingArcadeModeComponent": {}
+    }
+  },
+  {
+    "name": "CosmicBattle",
+    "id": -176533989,
+    "template": [
+      "MatchMakingModeTemplate",
+      "battleselect/arcade/mode/cosmicbattle"
+    ],
+    "components": {
+      "MatchMakingArcadeModeComponent": {}
+    }
+  },
+  {
+    "name": "QuickPlay",
+    "id": -1445747122,
+    "template": [
+      "MatchMakingModeTemplate",
+      "battleselect/arcade/mode/quickplay"
+    ],
+    "components": {
+      "MatchMakingArcadeModeComponent": {}
+    }
+  },
+  {
+    "name": "FullRandom",
+    "id": 305493469,
+    "template": [
+      "MatchMakingModeTemplate",
+      "battleselect/arcade/mode/fullrandom"
+    ],
+    "components": {
+      "MatchMakingArcadeModeComponent": {}
+    }
+  }
+]

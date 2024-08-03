@@ -1,0 +1,8 @@
+{
+  "Host": "localhost",
+  "Port": 3306,
+  "Username": "vint",
+  "Password": "smokeweedeveryteamnone",
+  "Database": "vint",
+  "Version": "11.2.2"
+}

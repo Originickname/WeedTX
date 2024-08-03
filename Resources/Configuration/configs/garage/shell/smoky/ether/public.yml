@@ -1,0 +1,76 @@
+purchaseUpgradeLevelRestriction:
+  restrictionValue: 0
+purchaseUserRankRestriction:
+  restrictionValue: 0
+mountUpgradeLevelRestriction:
+  restrictionValue: 0
+mountUserRankRestriction:
+  restrictionValue: 0
+minDamageProperty:
+  initialValue: 90
+  finalValue: 90
+maxDamageProperty:
+  initialValue: 90
+  finalValue: 90
+reloadTimeProperty:
+  initialValue: 0.850
+  finalValue: 0.850
+behaviorProperty: #1 - progression, 2 - crit, 3 - crit + random cooldown change
+  initialValue: 1
+  finalValue: 1
+startDamageProgressionProperty:
+  initialValue: 100
+  finalValue: 100
+maxDamageProgressionProperty:
+  initialValue: 9999
+  finalValue: 9999
+damageProgressionDeltaProperty:
+  initialValue: 50
+  finalValue: 50
+damageProgressionResetTimeSecProperty:
+  initialValue: 2
+  finalValue: 2
+criticalDamageProperty:
+  initialValue: 325.000
+  finalValue: 325.000
+startCriticalProbabilityProperty:
+  initialValue: 0.200
+  finalValue: 0.200
+afterCriticalHitProbabilityProperty:
+  initialValue: -0.500
+  finalValue: -0.500
+maxCriticalProbabilityProperty:
+  initialValue: 0.950
+  finalValue: 0.950
+criticalProbabilityDeltaProperty:
+  initialValue: 0.100
+  finalValue: 0.100
+maxDamageDistanceProperty:
+  initialValue: 30.091
+  finalValue: 30.091
+minDamageDistanceProperty:
+  initialValue: 128.261
+  finalValue: 128.261
+minDamagePercentProperty:
+  initialValue: 52.174
+  finalValue: 52.174
+impactProperty:
+  initialValue: 3.000
+  finalValue: 3.000
+kickbackProperty:
+  initialValue: 3.000
+  finalValue: 3.000
+priceItem:
+  price: 0
+xPriceItem:
+  price: 0
+order:
+  index: 300
+unityAsset:
+  reference:
+    assetGuid: d67a9088bf6d4384293a2e517ac1944b
+imageItem:
+  spriteUid: 0d1eb2ed-e704-4c18-97c1-5aaf38137ec4
+itemRarity:
+  rarityType: RARE
+...

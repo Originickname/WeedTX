@@ -1,0 +1,23 @@
+moduleCooldownProperty:
+  linearInterpolation: true
+  upgradeLevel2Values:
+    - 0
+    - 0
+moduleAmmunitionProperty:
+  linearInterpolation: true
+  upgradeLevel2Values:
+    - 1
+    - 1
+moduleBackhitModificatorEffectProperty:
+  linearInterpolation: true
+  upgradeLevel2Values:
+    - 1.053
+    - 1.334
+moduleVisualProperties:
+  properties:
+    - name: BackhitDamage
+      linearInterpolation: true
+      upgradeLevel2Values:
+        - 5.3
+        - 33.4
+      unit: percent

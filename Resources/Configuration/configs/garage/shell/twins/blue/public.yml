@@ -1,0 +1,51 @@
+priceItem:
+  price: 0
+xPriceItem:
+  price: 0
+order:
+  index: 300
+unityAsset:
+  reference:
+    assetGuid: bfce9881b5b523e4a8c432747ee7cc11
+imageItem:
+  spriteUid: 6e8d231a-5a80-4386-b71f-7a770b71b64a
+minDamageProperty:
+  initialValue: 94
+  finalValue: 94
+maxDamageProperty:
+  initialValue: 94
+  finalValue: 94
+reloadTimeProperty:
+  initialValue: 0.250
+  finalValue: 0.250
+bulletSpeedProperty:
+  initialValue: 150.000
+  finalValue: 150.000
+bulletRadiusProperty:
+  initialValue: 0.500
+  finalValue: 0.500
+maxDamageDistanceProperty:
+  initialValue: 43.416
+  finalValue: 43.416
+minDamageDistanceProperty:
+  initialValue: 83.913
+  finalValue: 83.913
+minDamagePercentProperty:
+  initialValue: 62.609
+  finalValue: 62.609
+impactProperty:
+  initialValue: 1.800
+  finalValue: 1.800
+kickbackProperty:
+  initialValue: 0.400
+  finalValue: 0.400
+purchaseUpgradeLevelRestriction:
+  restrictionValue: 0
+purchaseUserRankRestriction:
+  restrictionValue: 0
+mountUpgradeLevelRestriction:
+  restrictionValue: 0
+mountUserRankRestriction:
+  restrictionValue: 0
+itemRarity:
+  rarityType: COMMON
