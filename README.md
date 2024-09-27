@@ -1,10 +1,8 @@
 [![Discord](https://img.shields.io/discord/1196050317607972934?style=for-the-badge&label=Discord&link=https%3A%2F%2Fdiscord.gg%2F2ZdJYbj7pt)](https://discord.gg/2ZdJYbj7pt)
 
-# Vint
+# WeedTX
 
-This is the first open-source server for the TankiX game
-
-Issues and pull-requests are acceptable
+Mod of Vint
 
 ## Building
 
